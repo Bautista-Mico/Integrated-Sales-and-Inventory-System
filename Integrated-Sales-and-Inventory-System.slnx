@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessLogic/BusinessLogic.csproj" />
+  <Project Path="DB/DB.csproj" />
+  <Project Path="Integrated-Sales-and-Inventory-System/UI.csproj" />
+  <Project Path="Model/Model.csproj" />
+</Solution>
